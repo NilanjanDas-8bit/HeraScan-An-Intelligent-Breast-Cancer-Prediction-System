@@ -23,7 +23,7 @@ export default function BreastCancerUI() {
   const [predictionResult, setPredictionResult] = useState(null);
   const [chartData, setChartData] = useState(null);
 
-  const apiKey = "AIzaSyCNkiDW5C8lmcHhFikXf8DRYnt9SBrXH30"; // Replace with your API key
+  const apiKey = "************************"; // Replace with your API key
 
   // ✅ Required features list
   const REQUIRED_FEATURES = [
